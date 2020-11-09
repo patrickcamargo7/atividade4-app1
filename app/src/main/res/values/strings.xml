@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicativo 1</string>
+    <string name="label_share_text">Informe o texto a ser compartilhado</string>
+    <string name="or">Ou</string>
+    <string name="select_image">Selecione uma Imagem</string>
+    <string name="send_to">Enviar para</string>
+    <string name="permission_denied">Permissão negada</string>
+</resources>
